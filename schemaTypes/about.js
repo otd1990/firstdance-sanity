@@ -34,5 +34,10 @@ export default {
       type: 'image',
       title: 'Accreditation',
     },
+    {
+      name: 'boysBalletImage',
+      type: 'image',
+      title: 'Boys Ballet',
+    },
   ],
 }
